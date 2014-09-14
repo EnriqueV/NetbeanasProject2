@@ -3,7 +3,7 @@ NetbeanasProject2
 
 Codigos de programacion I, Universidad de El salvador
 Programacion en Java, 
-Uso de sentebcias de control
+Uso de sentencias de control
 Vectores
 ArrayList
 POO
